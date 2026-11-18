@@ -1,1 +1,53 @@
 
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>درآمدیار AI</title>
+<style>
+body {
+  margin: 0;
+  font-family: Tahoma, sans-serif;
+  background: #101522;
+  color: white;
+  text-align: center;
+}
+header {
+  padding: 45px 15px;
+  background: #18243b;
+}
+h1 { color: #e6bd68; }
+main { padding: 25px; }
+.service {
+  background: #202c42;
+  padding: 20px;
+  margin: 15px auto;
+  border-radius: 14px;
+  max-width: 400px;
+}
+button {
+  background: #d9ae55;
+  border: 0;
+  padding: 13px 25px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>درآمدیار AI</h1>
+<p>سامانه هوشمند طراحی و تبلیغات</p>
+</header>
+<main>
+<h2>خدمات ما</h2>
+<div class="service">🎨 طراحی لوگوی شرکت‌ها</div>
+<div class="service">📢 ساخت بنر تبلیغاتی</div>
+<div class="service">💼 طراحی کارت ویزیت</div>
+<div class="service">🤖 خدمات هوش مصنوعی</div>
+<p>برای سفارش خدمات با ما در ارتباط باشید.</p>
+</main>
+</body>
+</html>
+
